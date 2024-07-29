@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\25305.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\25305.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\10773.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "25305.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\25305.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\25305.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\25305.cpp",
+              "RelativeToolTip": "Baekjoon\\25305.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T08:27:43.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1764.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1764.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\1764.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1764.cpp",
+              "RelativeToolTip": "Baekjoon\\1764.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T08:27:31.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10773.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10773.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\10773.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10773.cpp",
+              "RelativeToolTip": "Baekjoon\\10773.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-29T08:27:20.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
