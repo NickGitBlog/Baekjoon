@@ -3,15 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\28279.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\28279.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1181.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\1181.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10815.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\10815.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\11866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\11866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\DEQUE||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\11650.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\11650.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10989.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\10989.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\3273.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\3273.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\babybin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\babybin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\28279.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{079E697A-49E0-488D-8B80-A99E74321C84}|Baekjoon\\Baekjoon.vcxproj|solutionrelative:Baekjoon\\28279.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,6 +61,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\FileName.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\FileName.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\FileName.cpp",
+              "RelativeToolTip": "Baekjoon\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T07:10:46.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\student.h",
+              "RelativeDocumentMoniker": "Baekjoon\\student.h",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\student.h",
+              "RelativeToolTip": "Baekjoon\\student.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-31T07:07:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1181.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1181.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\1181.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\1181.cpp",
+              "RelativeToolTip": "Baekjoon\\1181.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T06:25:13.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "10815.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10815.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\10815.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10815.cpp",
+              "RelativeToolTip": "Baekjoon\\10815.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T05:34:41.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ViewState": "AQIAAEwHAAAAAAAAAAArwGAHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-31T05:11:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "11650.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\11650.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\11650.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\11650.cpp",
+              "RelativeToolTip": "Baekjoon\\11650.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T04:16:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "10989.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10989.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\10989.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\10989.cpp",
+              "RelativeToolTip": "Baekjoon\\10989.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T04:02:49.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "3273.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\3273.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\3273.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\3273.cpp",
+              "RelativeToolTip": "Baekjoon\\3273.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T02:26:28.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "babybin.cpp",
+              "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\babybin.cpp",
+              "RelativeDocumentMoniker": "Baekjoon\\babybin.cpp",
+              "ToolTip": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\babybin.cpp",
+              "RelativeToolTip": "Baekjoon\\babybin.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAhwC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-30T08:56:10.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "28279.cpp",
               "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\28279.cpp",
               "RelativeDocumentMoniker": "Baekjoon\\28279.cpp",
@@ -33,12 +185,11 @@
               "RelativeToolTip": "Baekjoon\\28279.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-30T08:11:09.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T08:11:09.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "deque",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
@@ -46,12 +197,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
               "ViewState": "AQIAAK4FAAAAAAAAAAArwMIFAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-30T07:59:36.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T07:59:36.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "11866.cpp",
               "DocumentMoniker": "C:\\Users\\SAMSUNG\\source\\repos\\Baekjoon\\Baekjoon\\11866.cpp",
               "RelativeDocumentMoniker": "Baekjoon\\11866.cpp",
